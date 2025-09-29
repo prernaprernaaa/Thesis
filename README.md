@@ -1,5 +1,5 @@
 These codes are from my thesis - Pattern Formation and Revival of Activity in Model Neuronal Networks- done with Dr. Sudeshna Sinha at the Department of Physical Sciences, Indian Institute of Science Education and Research (IISER), Mohali.
-
+You can request access to my thesis pdf here: https://drive.google.com/file/d/1MQfzKCfYIvlkPclhFzM88eM_maRFRanF/view?usp=sharing
 Abstract:
 
 
